@@ -1,0 +1,15 @@
+.chat-sidebar.ng-scope {
+	visibility: hidden;
+}
+
+.avatar.gutter.ng-scope {
+	display:none;
+}
+
+#chats .chat-header{
+	display: none;
+}
+
+#nav-bar {
+	display: none;
+}
